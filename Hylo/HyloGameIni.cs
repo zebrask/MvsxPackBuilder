@@ -173,8 +173,7 @@ namespace MvsxPackBuilder
           
                 Console.WriteLine("\nSort a range with comparer:");
           
-                // sort the list 
-                GameEntries.Sort((x,y) => String.Compare(x.Name, y.Name));
+
 
                 foreach (Hylo.GameEntry entry in GameEntries)
                 {
