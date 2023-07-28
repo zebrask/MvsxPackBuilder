@@ -213,6 +213,7 @@ namespace MvsxPackBuilder
             TreeNode rootNode = new TreeNode();
             //sort by name
             GameEntries.Sort((x,y) => String.Compare(x.Name, y.Name));
+            //end of modification
             
             for(Int32 hyloGameIndex = 0; hyloGameIndex < GameEntries.Count; ++hyloGameIndex)
             {
