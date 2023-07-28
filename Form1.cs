@@ -211,7 +211,9 @@ namespace MvsxPackBuilder
         private TreeNode PopulateHyloTreeView(List<Hylo.GameEntry> GameEntries)
         {
             TreeNode rootNode = new TreeNode();
-
+            //sort by name
+            GameEntries.Sort((x,y) => String.Compare(x.Name, y.Name));
+            
             for(Int32 hyloGameIndex = 0; hyloGameIndex < GameEntries.Count; ++hyloGameIndex)
             {
                 Hylo.GameEntry entry = GameEntries[hyloGameIndex];
