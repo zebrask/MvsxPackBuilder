@@ -86,7 +86,7 @@ I am not responsible if this brick your MVSX, USE AT YOUR OWN RISK!
 ## TODO
 - [x] Publish initial version
 - [x] Improve HyloX categories management
-- [ ] Add sorting options
+- [x] Add sorting options
 - [ ] Finish FBA roms CRC validation
 - [ ] Add option to hide "unavailable" games in the FBA list
 
