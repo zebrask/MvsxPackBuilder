@@ -1,11 +1,13 @@
-# MvsxPackBuilder
+# MvsxPackBuilder 0.9.3.2
  A GUI to manage ROMs with the HyloX MVSX hack.
 
 ![image](docs/mvsxpackbuilder.png)
 
 ## Installation
 Simply unzip a release somewhere in your computer.  
-You can find pre-compiled binaries here: https://github.com/flobot-oss/MvsxPackBuilder/releases
+You can find a special binary here: https://github.com/zebrask/MvsxPackBuilder/blob/main/PackBuidler.zip
+It is a special release 0.9.3.1 with sorting for every name of games.
+It works for Windows 11 and MS Dot net 7.
 
 ## Usage
 Using the app is straightforward, the left panel is your FBA romset, the right panel is your HyloX game list.
