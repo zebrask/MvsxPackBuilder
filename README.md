@@ -1,4 +1,4 @@
-# MvsxPackBuilder 0.9.3.2
+# MvsxPackBuilder 0.9.3.1
  A GUI to manage ROMs with the HyloX MVSX hack.
 
 ![image](docs/mvsxpackbuilder.png)
