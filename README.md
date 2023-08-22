@@ -5,7 +5,7 @@
 
 ## Installation
 Simply unzip a release somewhere in your computer.  
-You can find a special binary here: [https://github.com/zebrask/MvsxPackBuilder/blob/main/PackBuidler.zip](https://github.com/zebrask/MvsxPackBuilder/releases/tag/0.9.3.2)
+You can find a special binary  [here](https://github.com/zebrask/MvsxPackBuilder/releases/tag/0.9.3.2)
 It is a special release with sorting for every name of games.
 It works for Windows 11 and MS Dot net 7.
 
